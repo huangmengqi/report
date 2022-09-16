@@ -22,7 +22,7 @@
         "nexmo/client": "^1.8",
         "predis/predis": "^1.1",
         "react/event-loop": "^1.1",
-        "react/http": "^0.8.4",
+        "react/http": "^1.7.0",
         "react/react": "^1.0",
         "voku/portable-utf8": "^5.4",
         "voku/simple_html_dom": "^4.7"
